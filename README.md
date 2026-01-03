@@ -1,51 +1,42 @@
-# Natural ou Fake Natty? Como Vencer na Era das IAs Generativas
-
-## 🚀 Introdução
-
-> Woooow! Look at this 👀
-
-Olá pessoal, Venilton da DIO aqui! Inspirado na hype _"Natty or Not"_ do fisiculturismo, este Lab da DIO te convida a conhecer o mundo das IAs Generativas, explorando o potencial dessas tendências tecnológicas incríveis!
-
-## 🎯 Bora Pro Desafio!? Você Já Venceu 💪🤓
-
-### Objetivos
-
-1. **Explorar IAs Generativas**: Utilize essas tecnologias para criar conteúdos que sejam o mais realista possível. Seja criativo! Você pode produzir imagens, textos, áudios, vídeos ou combinações de tudo isso!
-1. **Potfólio de Projetos**:
-    1. Faça o "fork" deste repositório, criando uma cópia em seu GitHub pessoal;
-    2. Edite seu README com os detalhes do seu projeto, siga nosso [Template](#template) (é só copiar, colar e preencher);
-    3. Submeta o link do seu repositório na plataforma da DIO. Pronto, você acabou de fortalecer seu portfólio de projetos nos perfis do GitHub e DIO 🚀
-1. **Efeito de Rede**: Compartilhe seus resultados nas redes sociais com a hashtag **#LabDIONattyOrNot**. Não esqueça de nos marcar: [DIO](https://www.linkedin.com/school/dio-makethechange) e [falvojr](https://www.linkedin.com/in/falvojr).
-
-### Template
-
-```markdown
-# Título do Projeto Extremamente Aesthetic ;)
+# 🧬 Natural ou Fake Natty?
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Este projeto faz parte do **Lab DIO – Natural ou Fake Natty?**, inspirado na tendência do fisiculturismo que questiona se um shape é natural ou não.
+
+A proposta foi utilizar **Inteligências Artificiais Generativas** para criar um personagem fitness extremamente realista, capaz de gerar dúvida no observador:  
+👉 *isso é real ou foi criado por IA?*
+
+O objetivo é explorar o potencial criativo e técnico das IAs, refletindo sobre os limites entre o real e o artificial.
+
+---
 
 ## 🤖 Tecnologias Utilizadas
-Liste as IAs Generativas e outras ferramentas usadas
+- **ChatGPT** — Criação do conceito, narrativa e descrição do personagem
+- **IA de geração de imagem** (ex: DALL·E / Midjourney / Leonardo AI)
+- **Markdown** — Estruturação do README
+- **GitHub** — Versionamento e publicação do projeto
+
+---
 
 ## 🧐 Processo de Criação
-Descreva como você criou o conteúdo
+1. Definição do conceito “Natty or Not” aplicado ao universo da IA  
+2. Criação de um prompt detalhado para gerar um personagem fitness realista  
+3. Ajustes no prompt para alcançar maior nível de realismo (pele, iluminação, imperfeições)  
+4. Desenvolvimento do storytelling para contextualizar o personagem  
+5. Organização e documentação do projeto no GitHub
+
+---
 
 ## 🚀 Resultados
-Apresente os resultados do seu projeto
+- Criação de um personagem fitness visualmente realista gerado por IA  
+- Conteúdo capaz de provocar reflexão e engajamento  
+- Projeto publicado no GitHub como parte do portfólio profissional  
+- Compartilhamento nas redes sociais com a hashtag **#LabDIONattyOrNot**
 
-## 💭 Reflexão (Opcional)
-Comente sobre o desafio de criar algo 'natty' com IA.
-```
+---
 
-### Exemplos e Insigths
+## 💭 Reflexão
+Criar algo “natty” com IA é um desafio interessante, pois quanto mais realista o conteúdo, mais ele questiona nossa percepção sobre autenticidade.
 
-- [E-BOOK](/exemplos/E-BOOK.md)
-- [Podcast](/exemplos/PODCAST.md)
-- [Vídeo (Avatar Virtual)](/exemplos/VIDEO.md)
+Este projeto mostrou que a IA não substitui a criatividade humana, mas **potencializa ideias**, exigindo senso crítico, responsabilidade e domínio técnico.
 
-## Links Interessantes
-
-[Base10: If You’re Not First, You’re Last: How AI Becomes Mission Critical](https://base10.vc/post/generative-ai-mission-critical/)
-
-![Base10's Trend Map Generative AI](https://github.com/digitalinnovationone/lab-natty-or-not/assets/730492/f4df26e8-f8f7-4419-8252-c69d73ea930c)
